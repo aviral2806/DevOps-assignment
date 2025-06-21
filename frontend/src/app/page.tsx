@@ -70,7 +70,7 @@ export default function HomePage() {
 
       <section className="bg-white p-6 rounded shadow-md w-full max-w-md">
         <h2 className="text-xl font-semibold mb-4 text-gray-700">
-          API 2 - Message
+          API 2 - Message (testing feature branch)
         </h2>
         <button
           onClick={() => handleCall("/api/message", setResponse2)}
